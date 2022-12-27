@@ -235,6 +235,9 @@ const Profile = (props) => {
               flexDirection: "column",
               justifyContent: "center",
               alignItems: "center",
+              backgroundImage: `url("https://i.pinimg.com/474x/ab/78/03/ab78039e2c3f1619d70d70bf45de95d7.jpg")`,
+              backgroundRepeat: "no-repeat",
+              backgroundSize: "135%",
             }}
           >
             <Grid container direction="column" alignItems="stretch" spacing={3}>
